@@ -1,4 +1,4 @@
-package com.fral.uo.discovery.uodiscoveryservice;
+package com.umssonline.discovery;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
